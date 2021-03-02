@@ -1,0 +1,37 @@
+{
+    "botToken": "",
+    "guildId": "",
+    "channels": {
+        "admin_verify": "",
+        "role_selection": "",
+        "welcome_greeting": ""
+    },
+    "groups": [
+        {
+            "message": "",
+            "roles": [
+                {
+                    "role": "",
+                    "emoji": ""
+                },
+                {
+                    "role": "",
+                    "emoji": ""
+                }
+            ]
+        },
+        {
+            "message": "",
+            "roles": [
+                {
+                    "role": "",
+                    "emoji": ""
+                },
+                {
+                    "role": "",
+                    "emoji": ""
+                }
+            ]
+        }
+    ]
+}
