@@ -1,5 +1,5 @@
 {
-    "botToken": "",
+    "bot_token": "",
     "guildId": "",
     "channels": {
         "admin_verify": "",
