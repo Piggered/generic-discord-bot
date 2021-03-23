@@ -1,6 +1,6 @@
 {
     "bot_token": "",
-    "guildId": "",
+    "guild": "",
     "channels": {
         "admin_verify": "",
         "role_selection": "",
